@@ -15,5 +15,6 @@ Proceso verificarMayoriaEdad
 			FinSi
 		FinSi
 		
-	FinSi	
+	FinSi
+	escribir "gracias por usar nuestro verificador";	
 FinProceso
